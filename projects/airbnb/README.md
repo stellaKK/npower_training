@@ -72,10 +72,3 @@ Built a multi-page Power BI dashboard with filters for room type and neighbourho
 - About 21% of prices were missing. The dashboard fills them with group medians, so its price numbers are partly estimates.
 - The model uses only the columns in the summary file. Details like number of bedrooms or amenities are not included, which limits how well it can predict price.
 
-## Files
-
-| File | Description |
-|------|-------------|
-| [`toronto_airbnb_summary_analysis.ipynb`](toronto_airbnb_summary_analysis.ipynb) | Data cleaning and preparation for the dashboard |
-| [`toronto_airbnb_summary_model.ipynb`](toronto_airbnb_summary_model.ipynb) | ANOVA tests and price prediction models |
-| [`airbnb-dashboard.pdf`](airbnb-dashboard.pdf) | PDF export of the Power BI dashboard |

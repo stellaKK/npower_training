@@ -54,10 +54,3 @@ The report uses charts from both Python and the dashboard, so the chart styles i
 
 **Limitation:** survey interest shows what developers want to learn. It does not guarantee future hiring demand.
 
-## Files
-
-| File | Description |
-|------|-------------|
-| [`Data Analyst Capstone Project Report.pdf`](Data%20Analyst%20Capstone%20Project%20Report.pdf) | Full report: method, charts, findings, and recommendations |
-| [`dashboard.pdf`](dashboard.pdf) | PDF export of the 3-page dashboard |
-| [`data_cleaning.py`](data_cleaning.py) | Python script that splits the multi-answer survey fields and builds the top-10 summary table used by the dashboard |
